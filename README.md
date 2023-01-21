@@ -1,9 +1,7 @@
 ### Hi there 👋I'm HARI PRASATH M!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hari_M-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hari-prasath-517849211/)](https://https://www.linkedin.com/in/hari-prasath-517849211//)
-
-[![Gmail Badge](https://img.shields.io/badge/-Hari_M-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hariprasathmk2003@gmail.com)](mailto:hariprasathmk2003@gmail)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Hari_M-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-prasath-517849211/)](https://www.linkedin.com/in/hari-prasath-517849211/)
+[![Gmail Badge](https://img.shields.io/badge/-Hari_M-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hariprasathmk2003@gmail.com)](mailto:hariprasathmk2003@gmail.com)
 
 Here are some ideas to get you started:
 - 🔭 I'm Hari prasath have pursing UG(Engineering)
