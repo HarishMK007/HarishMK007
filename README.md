@@ -17,7 +17,9 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Harish
 
 
 <h2> 🛠️ My favorite tools </h2>
+
 ### 👨‍💻 Programming and markup languages
+
 <p>
         <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
         <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
