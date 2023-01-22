@@ -11,3 +11,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about Games,Cars
 - 😄 Pronouns: Coder,Gamer and Hari
 
+<h2> 🛠️ My favorite tools </h2>
+
+### 👨‍💻 Programming and markup languages
+
+<p>
+
+
+    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
